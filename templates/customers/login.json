@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-customers-login",
+      "blocks": {
+        "login_form": {
+          "type": "login",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "login_form"
+      ],
+      "settings": {}
+    },
+    "64645e3b-0ee1-4053-a865-10a4c433ba61": {
+      "type": "divider",
+      "settings": {
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "64645e3b-0ee1-4053-a865-10a4c433ba61"
+  ]
+}

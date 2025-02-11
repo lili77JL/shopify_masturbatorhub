@@ -1,0 +1,165 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "large"
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "category-1": {
+          "type": "category",
+          "settings": {
+            "title": "Accounts and Orders"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "How do I create an account?",
+            "answer": "<p>Just register on the My Account page. <a href=\"https:\/\/www.masturbatorhub.com\/account\/register\" title=\"https:\/\/www.masturbatorhub.com\/account\/register\">https:\/\/www.masturbatorhub.com\/account\/register<\/a><\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Do I have to register and sign in before shopping?",
+            "answer": "<p>No, you can place orders without a buyer account on our website. Just add to cart or directly select “Paypal” and follow the next steps until your purchase is complete.<\/p>"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "Do I have to provide my full address?",
+            "answer": "<p>Yes, whether to ship to a packing station or a residential address, the full address including street name and receiver name is necessary.<\/p>"
+          }
+        },
+        "category-2": {
+          "type": "category",
+          "settings": {
+            "title": "Shipping and Tracking Orders"
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "title": "Does you offer international shipping?",
+            "answer": "<p>Yes, We support international shipping.We can ship to many countries and regions around the world, including North America, Europe,and Asia,etc.<\/p>"
+          }
+        },
+        "dd76ac64-e268-4736-b8c7-2fd967feb8a7": {
+          "type": "question",
+          "settings": {
+            "title": "When will my order ship?",
+            "answer": "<ul><li>US customer orders ship within  6-12 hours of purchase.<\/li><li>Other countries orders ship directly from our China factory within 1-2 days of purchase.<\/li><\/ul>"
+          }
+        },
+        "17c5a821-4d40-440d-9a01-8770d7f8ae28": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take for me to receive my order?",
+            "answer": "<ul><li>US customer: 2-5 Days Shipping time.<\/li><li>Other countries customer: Free Shipping (7 – 15 Business Days) & Expedited Shipping (3 – 6 Business Days).<\/li><\/ul><p>For more details, please check our <a href=\"\/pages\/shipping-guide\" title=\"Shipping Guide\">Shipping Guide<\/a> Page.<\/p>"
+          }
+        },
+        "eb21e73c-f375-4500-84fd-19443f51e069": {
+          "type": "question",
+          "settings": {
+            "title": "How to get my tracking number?",
+            "answer": "<p>We will send a tracking number to your Email box once your order is shipped. You can track it on our <a href=\"\/pages\/order-tracking-form\" title=\"Order Tracking Form\">Tracking Page<\/a> with the tracking number.<\/p><p>For more questions, please contact us via Email: <a href=\"mailto:service@masturbatorhub.com\" title=\"mailto:service@masturbatorhub.com\">service@masturbatorhub.com<\/a> or Call us: <a href=\"tel:+1 (203) 548-9557\" title=\"tel:+1 (203) 548-9557\">+1 (203) 548-9557<\/a>.<\/p>"
+          }
+        },
+        "3b451431-150c-4dbd-8891-521d64d7bb24": {
+          "type": "question",
+          "settings": {
+            "title": "By what shipping? Any extra fee?",
+            "answer": "<p>Our shipping partners are USPS, UPS, FedEx, DHL, etc. <\/p><ul><li>For US customers, all masturbators come with free shipping\/tax. There are no additional fees.<\/li><li>For customers from other countries, because masturbators are only in stock in the United States, these in-stock masturbators are shipped by sea and take 30-50 days to be shipped to the U.S. warehouse in advance, so the freight is cheaper, while for orders from other countries It needs to be shipped from China and transported by the fastest plane, 7-10 days. Therefore, the cost will be more expensive, hope you could understand!<\/li><\/ul>"
+          }
+        },
+        "c3cfa596-7242-44fe-95e0-f687e5547f10": {
+          "type": "question",
+          "settings": {
+            "title": "Are all orders discreet?",
+            "answer": "<p>Yes. We are an online shopping site for professional masturbators. We ensure privacy. On the package, there are no words or descriptions about sex. 100% privacy package!<\/p>"
+          }
+        },
+        "6054b84d-ada4-4945-8128-7f983fa4a2eb": {
+          "type": "category",
+          "settings": {
+            "title": "Returns and Exchanges"
+          }
+        },
+        "d4107dba-e4c5-4e39-8fbd-9a1b1faf7bdb": {
+          "type": "question",
+          "settings": {
+            "title": "How can I cancel my order？",
+            "answer": "<p>For this question, there are two situations in all.<\/p><ul><li>Situation 1: If your package has not been dispatched yet, we can cancel your order.<\/li><li>Situation 2: If your package has already left our warehouse, we cannot cancel your order.<\/li><\/ul>"
+          }
+        },
+        "3b075eee-fafe-4528-9832-4db7a2cd5097": {
+          "type": "question",
+          "settings": {
+            "title": "What can I do when I need to cancel my order？",
+            "answer": "<p>Your order processing starts within 6-12 hours of receipt of your payments.<\/p><p>If you want to change or cancel your order, please contact us by email at <a href=\"mailto:service@masturbatorhub.com\" title=\"mailto:service@masturbatorhub.com\">service@masturbatorhub.com<\/a> or call us directly at <a href=\"tel:+1 (203) 548-9557\" title=\"tel:+1 (203) 548-9557\">+1 (203) 548-9557<\/a> prior to shipment. <\/p><p>*Note: If your order was shipped, we can not cancel the order.<\/p>"
+          }
+        },
+        "b3c656a1-a9c2-45d8-a9cb-e6f1febd7eeb": {
+          "type": "question",
+          "settings": {
+            "title": "What happens if I cancel or return my order？",
+            "answer": "<p>Your order processing starts within 12 hours of receipt of your payments.<\/p><ul><li>(a). Cancellation made within 12 hours of purchase will incur a 5% transaction fee (Paypal or your bank charges, we do not charge any cancellation fee).<\/li><li>(b). Cancellations made within 12-24 hours of purchase will incur a 20% cancellation fee.<\/li><li>(c). If we have already shipped your order, then the order cannot be canceled, please understand.<\/li><\/ul><p>So, please make sure your order is correct before you hit the submit button.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "category-1",
+        "question-1",
+        "question-2",
+        "question-3",
+        "category-2",
+        "question-4",
+        "dd76ac64-e268-4736-b8c7-2fd967feb8a7",
+        "17c5a821-4d40-440d-9a01-8770d7f8ae28",
+        "eb21e73c-f375-4500-84fd-19443f51e069",
+        "3b451431-150c-4dbd-8891-521d64d7bb24",
+        "c3cfa596-7242-44fe-95e0-f687e5547f10",
+        "6054b84d-ada4-4945-8128-7f983fa4a2eb",
+        "d4107dba-e4c5-4e39-8fbd-9a1b1faf7bdb",
+        "3b075eee-fafe-4528-9832-4db7a2cd5097",
+        "b3c656a1-a9c2-45d8-a9cb-e6f1febd7eeb"
+      ],
+      "custom_css": [],
+      "settings": {
+        "show_navigation": true,
+        "title": "",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "8e855015-348e-4bf2-8de9-32238d89735d": {
+      "type": "divider",
+      "settings": {
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq",
+    "8e855015-348e-4bf2-8de9-32238d89735d"
+  ]
+}

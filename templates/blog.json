@@ -1,0 +1,30 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "show_blog_title": true,
+        "show_tags": true,
+        "show_category": true,
+        "show_excerpt": true,
+        "articles_per_page": 9
+      }
+    },
+    "c4d2b753-b0a1-40ed-9eb5-f66027ba6f12": {
+      "type": "divider",
+      "settings": {
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c4d2b753-b0a1-40ed-9eb5-f66027ba6f12"
+  ]
+}

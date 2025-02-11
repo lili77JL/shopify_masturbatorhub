@@ -1,0 +1,29 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "collections_to_show": "all",
+        "show_collection_title": true,
+        "mobile_products_per_row": "1",
+        "desktop_products_per_row": 3
+      }
+    },
+    "58f78319-6c9c-42c5-b92e-d658210f1912": {
+      "type": "divider",
+      "settings": {
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "58f78319-6c9c-42c5-b92e-d658210f1912"
+  ]
+}

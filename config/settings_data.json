@@ -1,0 +1,690 @@
+{
+  "current": {
+    "block_right_mouse": false,
+    "block_cn_browser": true,
+    "block_cn_hk_ips": true,
+    "block_peers_view_best_selling": false,
+    "icon_stroke_width": 1,
+    "button_border_radius": 4,
+    "product_form_items_vertical_spacing": 16,
+    "block_border_radius": "small",
+    "vertical_spacing": "medium",
+    "video_player_play_icon": "material-symbols-smart-display-rounded",
+    "video_player_play_icon_color": "#FF0000",
+    "heading_color": "#000000",
+    "text_color": "#000000",
+    "background": "#ffffff",
+    "secondary_background": "#f4f5f5",
+    "success_color": "#33a457",
+    "error_color": "#cd2128",
+    "header_background": "#ffffff",
+    "header_text_color": "#000000",
+    "footer_background": "#000000",
+    "footer_text_color": "#ffffff",
+    "primary_button_background": "#ffb700",
+    "primary_button_text_color": "#000000",
+    "secondary_button_background": "#000000",
+    "secondary_button_text_color": "#ffb700",
+    "product_rating_color": "#e8b532",
+    "product_on_sale_accent": "#000000",
+    "product_sold_out_accent": "#a72434",
+    "product_custom_label_background": "#4d2a93",
+    "product_custom_label_2_background": "#002b9b",
+    "product_in_stock_text_color": "#2c7962",
+    "product_low_stock_text_color": "#a72434",
+    "heading_font": "archivo_n5",
+    "heading_font_size": "small",
+    "heading_text_transform": "normal",
+    "text_font": "archivo_n4",
+    "text_font_size": 17,
+    "currency_code_enabled": false,
+    "show_image_zoom": true,
+    "stagger_products_apparition": true,
+    "stagger_blog_posts_apparition": true,
+    "reveal_product_media": true,
+    "round_color_swatches": false,
+    "product_add_to_cart": true,
+    "show_discount": false,
+    "show_product_rating": true,
+    "show_secondary_image": true,
+    "show_vendor": false,
+    "truncate_product_variant_images": false,
+    "product_color_display": "variant_image",
+    "product_color_mode": "color",
+    "product_label_position": "over_image",
+    "product_image_size": "natural",
+    "discount_mode": "saving",
+    "rating_app": "judge_me_product_reviews",
+    "product_item_text_alignment": "left",
+    "product_item_title_truncation": "2",
+    "search_enable_products": true,
+    "search_enable_blog_posts": true,
+    "search_enable_pages": false,
+    "search_enable_collections": true,
+    "search_unavailable_products": "last",
+    "cart_type": "drawer",
+    "cart_icon": "shopping_cart",
+    "cart_empty_button_link": "shopify:\/\/collections\/all-product",
+    "cart_show_free_shipping_threshold": true,
+    "cart_free_shipping_threshold": "",
+    "payment_methods": "paypal\napple_pay\ngoogle_pay\nvisa\nmaster\ndiscover",
+    "social_facebook": "https:\/\/www.facebook.com\/profile.php?id=100082804006238",
+    "social_tiktok": "",
+    "social_twitter": "https:\/\/twitter.com\/Mymasturbators",
+    "social_vimeo": "https:\/\/vimeo.com\/user197493147",
+    "social_whatsapp": "+86 18835702057",
+    "social_youtube": "",
+    "favicon": "shopify:\/\/shop_images\/logo_3.webp",
+    "checkout_sidebar_background_color": "#f6f3ed",
+    "checkout_accent_color": "#353535",
+    "checkout_button_color": "#353535",
+    "checkout_error_color": "#de2a2a",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "message-1": {
+            "type": "message",
+            "settings": {
+              "text": "Male Masturbator Mega Store"
+            }
+          },
+          "message_nitxHi": {
+            "type": "message",
+            "settings": {
+              "text": "Get 10% Off In Your First Order"
+            }
+          },
+          "148728b5-9e08-4168-9591-f5644191e14f": {
+            "type": "message",
+            "settings": {
+              "text": "Free U.S. Shipping on All Orders"
+            }
+          }
+        },
+        "block_order": [
+          "message-1",
+          "message_nitxHi",
+          "148728b5-9e08-4168-9591-f5644191e14f"
+        ],
+        "settings": {
+          "announcement_bar_position": "non_sticky",
+          "announcement_text_size": "small",
+          "message_width": "boxed",
+          "autoplay": true,
+          "hide_arrows": false,
+          "cycle_speed": 8,
+          "background": "#000000",
+          "text_color": "#ffffff"
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "enable_sticky_header": true,
+          "logo": "shopify:\/\/shop_images\/logo_2.webp",
+          "logo_max_width": 200,
+          "mobile_logo_max_width": 130,
+          "navigation_menu": "main-menu-1",
+          "sidebar_navigation_menu": "main-menu-1",
+          "header_layout": "logo_left_navigation_inline",
+          "show_icons": true,
+          "reduce_desktop_padding": true,
+          "show_locale_selector": false,
+          "show_country_selector": false,
+          "show_country_flag": false,
+          "enable_transparent_header": false,
+          "transparent_header_text_color": "rgba(0,0,0,0)",
+          "transparent_logo": "shopify:\/\/shop_images\/logo_2.webp",
+          "search_menu": "main-menu-1"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "text": {
+            "type": "text",
+            "settings": {
+              "title": "CONTACT: CRYSTAL",
+              "content": "<ul><li><a href=\"mailto:service@masturbatorhub.com\" title=\"mailto:service@masturbatorhub.com\">Email : service@masturbatorhub.com<\/a><\/li><li>WhatsApp: +8618835702057<\/li><li>Address: 114 Melrich Road, STE E, Cranbury, NJ, 08512<\/li><\/ul>",
+              "mobile_width": "full_width"
+            }
+          },
+          "links": {
+            "type": "links",
+            "settings": {
+              "menu": "help",
+              "mobile_width": "half_width"
+            }
+          },
+          "0e007e52-c122-4ef6-bfa0-e384e85da952": {
+            "type": "text",
+            "settings": {
+              "title": "Quick Link",
+              "content": "<p><a href=\"\/collections\/best-sex-toy-for-men\" title=\"Best Sex Toy For Men | Buy Top 20 Masturbation Cups Online\">Best Selling<\/a><\/p><p><a href=\"\/collections\/new-arrival\" title=\"New Arrival Male Masturbators Sex Toys For Men | Newest In 2023\">New Arrival<\/a><\/p><p><a href=\"\/collections\/on-sale\" title=\"On Sale\">On Sale<\/a><\/p><p><a href=\"https:\/\/www.letendirect.com\/\" target=\"_blank\" title=\"Leten Official\">Leten Official<\/a><\/p>",
+              "mobile_width": "half_width"
+            }
+          },
+          "newsletter": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Newsletter",
+              "content": "<p>Subscribe to our newsletter to receive the latest news, exclusive offers and insider tips straight to your inbox.<\/p>",
+              "mobile_width": "half_width",
+              "show_social_media": true,
+              "social_media_title": "Follow us",
+              "social_media_content": ""
+            }
+          }
+        },
+        "block_order": [
+          "text",
+          "links",
+          "0e007e52-c122-4ef6-bfa0-e384e85da952",
+          "newsletter"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "show_powered_by": false,
+          "show_country_selector": true,
+          "show_country_flag": true,
+          "show_locale_selector": true,
+          "show_bottom_bar": true,
+          "bottom_bar_content": "<p>©Masturbatorhub.com 2024<\/p>",
+          "bottom_bar_menu": "",
+          "bottom_bar_mobile_alignment": "center",
+          "bottom_bar_background": "#ffb700",
+          "bottom_bar_text_color": "#000000",
+          "show_cookie_bar": false,
+          "cookie_bar_title": "Cookie policy",
+          "cookie_bar_content": "<p>I agree to the processing of my data in accordance with the conditions set out in the policy of Privacy.<\/p>"
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {
+          "enable": false,
+          "apparition_delay": 5,
+          "show_only_on_index": true,
+          "show_only_for_visitors": true,
+          "show_only_once": true,
+          "image_position": "left",
+          "title": "Get 10% off",
+          "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
+        }
+      },
+      "video-bubble": {
+        "type": "video-bubble",
+        "settings": {
+          "enable": false,
+          "context": "Chat with me!",
+          "preview_video_url": "",
+          "main_video_url": "",
+          "product": "",
+          "shop_button_content": "Shop",
+          "desktop_width": 100,
+          "desktop_height": 100,
+          "desktop_border_radius": 50,
+          "desktop_position": "bottom_right",
+          "desktop_x_margin": 36,
+          "desktop_y_margin": 30,
+          "mobile_width": 100,
+          "mobile_height": 100,
+          "mobile_border_radius": 50,
+          "mobile_position": "bottom_right",
+          "mobile_x_margin": 36,
+          "mobile_y_margin": 30,
+          "desktop_close_button_position": "right",
+          "desktop_close_button_x_margin": -8,
+          "desktop_close_button_y_margin": 12,
+          "mobile_close_button_position": "right",
+          "mobile_close_button_x_margin": -8,
+          "mobile_close_button_y_margin": 12,
+          "desktop_font_size": 12,
+          "mobile_font_size": 12,
+          "text_color": "rgba(0,0,0,0)",
+          "border_width": 0,
+          "border_style": "solid",
+          "border_color": "rgba(0,0,0,0)"
+        }
+      },
+      "mini-cart": {
+        "type": "mini-cart",
+        "settings": {
+          "show_order_note": true,
+          "show_checkout_button": true,
+          "empty_button_link": "shopify:\/\/collections\/all",
+          "show_recommendations": true,
+          "recommendations_title": "You may also like",
+          "recommendations_list": [
+            "200ml-sex-lubricant-for-all-masturbator",
+            "p-m15-remote-control-10-frequency-vibrating-prostate-massager",
+            "pr21-12-frequency-penis-clitoris-g-spot-stimulation-couple-cock-ring-sex-toy"
+          ],
+          "show_countdown": false,
+          "countdown_heading": "",
+          "countdown_heading_font_size": "medium",
+          "countdown_end_time": "",
+          "countdown_background": "rgba(0,0,0,0)",
+          "countdown_text_color": "rgba(0,0,0,0)",
+          "countdown_padding_top": 20,
+          "countdown_padding_bottom": 20,
+          "enable_discount_code": false,
+          "apply_discount_code_before_checkout": true,
+          "discount_code_button_background": "rgba(0,0,0,0)",
+          "discount_code_button_text_color": "rgba(0,0,0,0)"
+        }
+      },
+      "back-to-top": {
+        "type": "back-to-top",
+        "settings": {
+          "enable": false,
+          "show_only_on_index": true,
+          "vertical_offset_for_trigger": 1200,
+          "icon": "material-symbols-arrow-up-rounded",
+          "shape": "circle",
+          "size": 56,
+          "desktop_right_distance": 56,
+          "desktop_bottom_distance": 108,
+          "mobile_right_distance": 32,
+          "mobile_bottom_distance": 108,
+          "background": "#ffffff",
+          "text_color": "#1a1a1a"
+        }
+      },
+      "static-text-with-icons": {
+        "type": "static-text-with-icons",
+        "blocks": {
+          "static-text-with-icons-0": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-box",
+              "custom_icon_width": 50,
+              "title": "Free shipping",
+              "content": "<p>Free & discreet shipping on all USA orders,2-5 Days Fast delivery.<\/p>"
+            }
+          },
+          "static-text-with-icons-1": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-phone",
+              "custom_icon_width": 50,
+              "title": "TOP-NOTCH SUPPORT",
+              "content": "<p>Quick response to any questions. Always here and ready to help.<\/p>"
+            }
+          },
+          "static-text-with-icons-2": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-lock",
+              "custom_icon_width": 50,
+              "title": "SECURE PAYMENT",
+              "content": "<p>Pay by Paypal & Credit Card. We prioritise your privacy above all else.<\/p>"
+            }
+          },
+          "static-text-with-icons-3": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-return-box",
+              "custom_icon_width": 50,
+              "title": "SATISFACTION GUARANTEED",
+              "content": "<p>60 Days easy return. Perfect after-sales service.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "static-text-with-icons-0",
+          "static-text-with-icons-1",
+          "static-text-with-icons-2",
+          "static-text-with-icons-3"
+        ],
+        "settings": {
+          "show_section": true,
+          "background": "rgba(0,0,0,0)",
+          "text_color": "rgba(0,0,0,0)"
+        }
+      },
+      "static-newsletter": {
+        "type": "static-newsletter",
+        "settings": {
+          "show_section": false,
+          "reveal_on_scroll": true,
+          "subheading": "Subscribe to our newsletter",
+          "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+          "text_position": "right",
+          "text_alignment": "left",
+          "text_background": "rgba(0,0,0,0)",
+          "text_color": "rgba(0,0,0,0)",
+          "button_background": "rgba(0,0,0,0)",
+          "button_text_color": "rgba(0,0,0,0)"
+        }
+      },
+      "video-bubble-v2": {
+        "type": "video-bubble-v2",
+        "settings": {
+          "enable": false,
+          "show_only_on_index": true,
+          "hide_on_close": false,
+          "product": "",
+          "main_video_url": "",
+          "desktop_position": "bottom_left",
+          "desktop_shadow_effect": "large",
+          "desktop_width": 200,
+          "desktop_border_radius": 4,
+          "desktop_x_margin": 40,
+          "desktop_y_margin": 40,
+          "mobile_position": "bottom_left",
+          "mobile_shadow_effect": "large",
+          "mobile_width": 150,
+          "mobile_border_radius": 4,
+          "mobile_x_margin": 24,
+          "mobile_y_margin": 24
+        }
+      },
+      "footer-navigation": {
+        "type": "footer-navigation",
+        "blocks": {
+          "footer-navigation-0": {
+            "type": "navigation_item",
+            "settings": {
+              "icon": "header-hamburger",
+              "label": "Label",
+              "link": ""
+            }
+          },
+          "footer-navigation-1": {
+            "type": "navigation_item",
+            "settings": {
+              "icon": "header-hamburger",
+              "label": "Label",
+              "link": ""
+            }
+          },
+          "footer-navigation-2": {
+            "type": "navigation_item",
+            "settings": {
+              "icon": "header-hamburger",
+              "label": "Label",
+              "link": ""
+            }
+          },
+          "footer-navigation-3": {
+            "type": "navigation_item",
+            "settings": {
+              "icon": "header-hamburger",
+              "label": "Label",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "footer-navigation-0",
+          "footer-navigation-1",
+          "footer-navigation-2",
+          "footer-navigation-3"
+        ],
+        "settings": {
+          "enable": false,
+          "background": "rgba(0,0,0,0)",
+          "text_color": "rgba(0,0,0,0)"
+        }
+      },
+      "color-swatch-patterns": {
+        "type": "color-swatch-patterns",
+        "settings": {}
+      }
+    },
+    "content_for_index": [],
+    "blocks": {
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {}
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "block_right_mouse": false,
+      "block_cn_browser": false,
+      "block_cn_hk_ips": false,
+      "block_peers_view_best_selling": false,
+      "icon_stroke_width": 2,
+      "button_border_radius": 4,
+      "product_form_items_vertical_spacing": 16,
+      "block_border_radius": "small",
+      "vertical_spacing": "large",
+      "video_player_play_icon": "material-symbols-smart-display-rounded",
+      "video_player_play_icon_color": "#FF0000",
+      "heading_color": "#000000",
+      "text_color": "#000000",
+      "background": "#ffffff",
+      "secondary_background": "#f4f5f5",
+      "success_color": "#33a457",
+      "error_color": "#cd2128",
+      "header_background": "#ffffff",
+      "header_text_color": "#000000",
+      "footer_background": "#000000",
+      "footer_text_color": "#ffffff",
+      "primary_button_background": "#ffb700",
+      "primary_button_text_color": "#000000",
+      "secondary_button_background": "#000000",
+      "secondary_button_text_color": "#ffb700",
+      "product_rating_color": "#e8b532",
+      "product_on_sale_accent": "#000000",
+      "product_sold_out_accent": "#a72434",
+      "product_custom_label_background": "#4d2a93",
+      "product_custom_label_2_background": "#002b9b",
+      "product_in_stock_text_color": "#2c7962",
+      "product_low_stock_text_color": "#a72434",
+      "heading_font": "georgia_pro_n4",
+      "heading_font_size": "medium",
+      "heading_text_transform": "normal",
+      "text_font": "source_sans_pro_n4",
+      "text_font_size": 14,
+      "currency_code_enabled": false,
+      "show_image_zoom": true,
+      "stagger_products_apparition": true,
+      "stagger_blog_posts_apparition": true,
+      "reveal_product_media": true,
+      "round_color_swatches": false,
+      "product_add_to_cart": true,
+      "show_discount": true,
+      "show_product_rating": false,
+      "show_secondary_image": true,
+      "show_vendor": false,
+      "truncate_product_variant_images": false,
+      "product_color_display": "count",
+      "product_color_mode": "color",
+      "product_label_position": "over_image",
+      "product_image_size": "square",
+      "discount_mode": "saving",
+      "rating_app": "product_reviews",
+      "product_item_text_alignment": "center",
+      "product_item_title_truncation": "none",
+      "search_enable_products": true,
+      "search_enable_blog_posts": true,
+      "search_enable_pages": false,
+      "search_enable_collections": true,
+      "search_unavailable_products": "last",
+      "cart_type": "drawer",
+      "cart_icon": "shopping_bag",
+      "cart_show_free_shipping_threshold": true,
+      "cart_free_shipping_threshold": "50",
+      "social_tiktok": "https:\/\/v.douyin.com\/iCQUA7V\/",
+      "social_twitter": "https:\/\/twitter.com\/zalifyapp",
+      "social_youtube": "https:\/\/www.youtube.com\/@zalify3959",
+      "checkout_sidebar_background_color": "#f6f3ed",
+      "checkout_accent_color": "#353535",
+      "checkout_button_color": "#353535",
+      "checkout_error_color": "#de2a2a",
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "message-1": {
+              "type": "message",
+              "settings": {
+                "text": "The Zalify Theme is officially released! See the <a href=\"https:\/\/zalify.featurebase.app\/changelog\" target=\"_blank\" title=\"https:\/\/zalify.featurebase.app\/changelog\">changelog<\/a>."
+              }
+            }
+          },
+          "block_order": [
+            "message-1"
+          ],
+          "settings": {
+            "background": "#1a1a1a",
+            "text_color": "#ffffff"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "transparent_header_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "text": {
+              "type": "text",
+              "settings": {
+                "title": "About our theme",
+                "content": "<p><a href=\"https:\/\/www.zalify.com\/theme\" target=\"_blank\" title=\"https:\/\/www.zalify.com\/theme\">Zalify Theme<\/a> is a next-generation theme template designed specifically for Shopify, with a more exquisite design and better performance.<\/p>"
+              }
+            },
+            "links": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to our newsletter to receive the latest news, exclusive offers and insider tips straight to your inbox.<\/p>"
+              }
+            },
+            "social_media": {
+              "type": "social_media",
+              "settings": {
+                "title": "Follow us",
+                "content": "<p>Join our community! Follow us on social media to stay up to date with the latest trends.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "links",
+            "text",
+            "social_media",
+            "newsletter"
+          ],
+          "settings": {
+            "show_payment_icons": true,
+            "show_country_selector": true,
+            "show_country_flag": true,
+            "show_locale_selector": true,
+            "show_bottom_bar": true,
+            "bottom_bar_content": "<p>© 2023 Zalify all rights reserved.<\/p>",
+            "bottom_bar_menu": "",
+            "bottom_bar_mobile_alignment": "center",
+            "bottom_bar_background": "#ffb700",
+            "bottom_bar_text_color": "#000000",
+            "show_cookie_bar": false,
+            "cookie_bar_title": "Cookie policy",
+            "cookie_bar_content": "<p>I agree to the processing of my data in accordance with the conditions set out in the policy of Privacy.<\/p>"
+          }
+        },
+        "popup": {
+          "type": "popup",
+          "settings": {}
+        },
+        "video-bubble": {
+          "type": "video-bubble",
+          "settings": {
+            "product": "",
+            "text_color": "rgba(255,255,255,0)",
+            "border_color": "rgba(0,0,0,0)"
+          }
+        },
+        "mini-cart": {
+          "type": "mini-cart",
+          "settings": {
+            "countdown_background": "rgba(0,0,0,0)",
+            "countdown_text_color": "rgba(0,0,0,0)",
+            "discount_code_button_background": "rgba(0,0,0,0)",
+            "discount_code_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "back-to-top": {
+          "type": "back-to-top",
+          "settings": {
+            "background": "#ffffff",
+            "text_color": "#1a1a1a"
+          }
+        },
+        "static-text-with-icons": {
+          "type": "static-text-with-icons",
+          "blocks": {
+            "static-text-with-icons-0": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-box",
+                "custom_icon_width": 50,
+                "title": "Free shipping",
+                "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
+              }
+            },
+            "static-text-with-icons-1": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-phone",
+                "custom_icon_width": 50,
+                "title": "Customer service",
+                "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
+              }
+            },
+            "static-text-with-icons-2": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-lock",
+                "custom_icon_width": 50,
+                "title": "Secure payment",
+                "content": "<p>Your payment information is processed securely.<\/p>"
+              }
+            },
+            "static-text-with-icons-3": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-email",
+                "custom_icon_width": 50,
+                "title": "Contact us",
+                "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "static-text-with-icons-0",
+            "static-text-with-icons-1",
+            "static-text-with-icons-2",
+            "static-text-with-icons-3"
+          ],
+          "settings": {
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "static-newsletter": {
+          "type": "static-newsletter",
+          "settings": {
+            "text_background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "button_background": "rgba(0,0,0,0)",
+            "button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      }
+    }
+  }
+}
