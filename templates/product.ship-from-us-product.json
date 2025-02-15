@@ -1,0 +1,197 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "meta": {
+          "type": "meta",
+          "settings": {
+            "include_variant_name": false
+          }
+        },
+        "3a1573a2-f538-4bef-8fc2-1f0d1d5da95d": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "variant_image",
+            "enable_dynamic_theme_color": false,
+            "dynamic_theme_color_with_announcement_bar": false,
+            "dynamic_theme_color_with_footer": false,
+            "size_chart_page": "",
+            "size_chart_icon": "ruler-3",
+            "size_chart_image": false
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_icon_preset": "quick-buy-shopping-bag",
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)",
+            "show_image_uploader": false,
+            "image_uploader_label": "<p>Drag & Drop your image or <span style=\"text-decoration:underline\">Browse<\/span> <\/p>"
+          }
+        },
+        "klarna_on_site_messaging_app_block_37GDLz": {
+          "type": "shopify:\/\/apps\/klarna-on-site-messaging\/blocks\/app-block\/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "credit-promotion-badge",
+            "locale_option": "geolocation",
+            "locale_fallback": "",
+            "theme": "default",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        },
+        "54431c45-834d-420e-96ce-6cd111355c9c": {
+          "type": "order_timing",
+          "settings": {
+            "text": "Order will be shipped within 6-12 hours.",
+            "cycle_speed": 3,
+            "prefix_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "list_delivery_free_return": {
+          "type": "list",
+          "settings": {
+            "item_1_heading": "",
+            "item_1_content": "<p>Ship From California & New Jersey<\/p>",
+            "item_1_icon_preset": "picto-address-pin",
+            "item_2_heading": "",
+            "item_2_content": "<p>Standard Shipping: (2-5 days)<\/p>",
+            "item_2_icon_preset": "picto-delivery-truck",
+            "item_3_heading": "",
+            "item_3_content": "<p>Expedited Shipping: (1-3 days)<\/p>",
+            "item_3_icon_preset": "picto-plane",
+            "remove_inner_padding": false,
+            "box_alignment": "row",
+            "icon_alignment": "middle",
+            "background": "#fcebbd",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "list_1": {
+          "type": "list",
+          "settings": {
+            "item_1_heading": "",
+            "item_1_content": "<p>100% Discreet Package<\/p>",
+            "item_1_icon_preset": "picto-box",
+            "item_2_heading": "",
+            "item_2_content": "<p>100% Satisfaction Guarantee<\/p>",
+            "item_2_icon_preset": "picto-customer-support",
+            "item_3_heading": "",
+            "item_3_content": "",
+            "item_3_icon_preset": "",
+            "remove_inner_padding": false,
+            "box_alignment": "row",
+            "icon_alignment": "middle",
+            "background": "#f5f5f1",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "safe_tips_PR4zid": {
+          "type": "safe_tips",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "meta",
+        "3a1573a2-f538-4bef-8fc2-1f0d1d5da95d",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "klarna_on_site_messaging_app_block_37GDLz",
+        "54431c45-834d-420e-96ce-6cd111355c9c",
+        "list_delivery_free_return",
+        "list_1",
+        "safe_tips_PR4zid"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_sticky_quick_buy": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "enable_peeking_carousel_on_mobile": false,
+        "adaptive_media_height": false,
+        "show_thumbnails_on_mobile": true,
+        "always_hide_mobile_pagination_dots": false,
+        "desktop_thumbnails_position": "bottom",
+        "shadow_effect": "large",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "description"
+      ],
+      "settings": {
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "products": [],
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "908f6d65-66bf-482d-9346-faaf11d9790d": {
+      "type": "divider",
+      "settings": {
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "product-recommendations",
+    "908f6d65-66bf-482d-9346-faaf11d9790d"
+  ]
+}

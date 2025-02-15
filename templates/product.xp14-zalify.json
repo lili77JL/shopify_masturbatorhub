@@ -1,0 +1,312 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "meta": {
+          "type": "meta",
+          "settings": {
+            "include_variant_name": false
+          }
+        },
+        "708e1dd3-fd3e-4dbd-84c8-c949cb2b3e31": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "variant_image",
+            "enable_dynamic_theme_color": false,
+            "dynamic_theme_color_with_announcement_bar": false,
+            "dynamic_theme_color_with_footer": false,
+            "size_chart_page": "",
+            "size_chart_icon": "ruler-3",
+            "size_chart_image": false
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_icon_preset": "quick-buy-shopping-bag",
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)",
+            "show_image_uploader": false,
+            "image_uploader_label": "<p>Drag & Drop your image or <span style=\"text-decoration:underline\">Browse<\/span> <\/p>"
+          }
+        },
+        "7190fd16-6261-440f-90de-4719e4796d29": {
+          "type": "shopify:\/\/apps\/klarna-on-site-messaging\/blocks\/app-block\/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "credit-promotion-badge",
+            "locale_option": "geolocation",
+            "locale_fallback": "",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        },
+        "9eb02c1c-79a6-4c84-b8e6-a3b8e722b885": {
+          "type": "order_timing",
+          "settings": {
+            "text": "Order will be shipped within 6-12 hours.",
+            "cycle_speed": 3,
+            "prefix_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "list_delivery_free_return": {
+          "type": "list",
+          "settings": {
+            "item_1_heading": "",
+            "item_1_content": "<p>Standard shipping: (2-5 Days)<\/p>",
+            "item_1_icon_preset": "picto-delivery-truck",
+            "item_2_heading": "",
+            "item_2_content": "<p>60 Days Free Return & Exchange<\/p>",
+            "item_2_icon_preset": "sixty-days",
+            "item_3_heading": "",
+            "item_3_content": "",
+            "item_3_icon_preset": "",
+            "remove_inner_padding": false,
+            "box_alignment": "row",
+            "icon_alignment": "top",
+            "background": "#fcebbd",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "list_1": {
+          "type": "list",
+          "settings": {
+            "item_1_heading": "",
+            "item_1_content": "<p>100% Discreet Package<\/p>",
+            "item_1_icon_preset": "picto-box",
+            "item_2_heading": "",
+            "item_2_content": "<p>100% Satisfaction Guarantee<\/p>",
+            "item_2_icon_preset": "picto-customer-support",
+            "item_3_heading": "",
+            "item_3_content": "",
+            "item_3_icon_preset": "",
+            "remove_inner_padding": false,
+            "box_alignment": "row",
+            "icon_alignment": "middle",
+            "background": "#f5f5f1",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "0e91dff3-6394-4254-bb45-1d1b15ac94a3": {
+          "type": "safe_tips",
+          "settings": {}
+        },
+        "b4613723-5fa1-42b3-b34d-bc24da792d92": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Specification:",
+            "icon": "",
+            "row_content": "<ul><li>Material: ABS+Silicone<\/li><li>Weight: 1.64 lbs<\/li><li>Waterproof: No<\/li><li>Charging Time: 2 Hours<\/li><li>Run Time: &gt;60 Mins<\/li><li>Mute: 60 DB<\/li><\/ul>",
+            "show_product_description_first": false
+          }
+        }
+      },
+      "block_order": [
+        "meta",
+        "708e1dd3-fd3e-4dbd-84c8-c949cb2b3e31",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "7190fd16-6261-440f-90de-4719e4796d29",
+        "9eb02c1c-79a6-4c84-b8e6-a3b8e722b885",
+        "list_delivery_free_return",
+        "list_1",
+        "0e91dff3-6394-4254-bb45-1d1b15ac94a3",
+        "b4613723-5fa1-42b3-b34d-bc24da792d92"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": true,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_sticky_quick_buy": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "enable_peeking_carousel_on_mobile": false,
+        "adaptive_media_height": false,
+        "show_thumbnails_on_mobile": true,
+        "always_hide_mobile_pagination_dots": false,
+        "desktop_thumbnails_position": "bottom",
+        "shadow_effect": "large",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "cc52cefa-8769-45c3-98c0-a2a9b2176cc1": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "cc52cefa-8769-45c3-98c0-a2a9b2176cc1"
+      ],
+      "custom_css": [
+        "@media screen and (min-width: 741px) {.product-content__tabs {width: 88%; }}",
+        "h3 {font-size: 20px;}",
+        "ul {font-size: 17px;}"
+      ],
+      "settings": {
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "3abfbb83-3470-4617-b02d-693b452b8f99": {
+      "type": "image-with-text",
+      "blocks": {
+        "96eeb469-97fb-435d-9c8d-0aa03ab6e7b6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Penis_Vacuum_Pump_Masturbator_14.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Package Included:",
+            "content": "<ul><li>Penis pump *1<\/li><li>Charging cable *1<\/li><li>Cleaning cloth *1<\/li><li>Storage bag *1<\/li><li>Heating rod *1<\/li><li>Manual *1<\/li><\/ul>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "96eeb469-97fb-435d-9c8d-0aa03ab6e7b6"
+      ],
+      "custom_css": [
+        ".product-content__tabs {width: 20%;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "image",
+        "image_position": "left",
+        "desktop_text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "c15b1c58-ab34-47a5-8139-d31b7848943a": {
+      "type": "video-bubble-single",
+      "disabled": true,
+      "settings": {
+        "context": "",
+        "preview_video": "shopify:\/\/files\/videos\/XT5-3.mp4",
+        "preview_video_url": "",
+        "main_video": "shopify:\/\/files\/videos\/Masturbatorhub-XT5.mp4",
+        "main_video_url": "",
+        "product": "10-modes-10-speed-ultra-long-stroking-masturbator-700-strokes-per-min",
+        "shop_button_content": "Buy It Now",
+        "desktop_width": 190,
+        "desktop_height": 260,
+        "desktop_border_radius": 5,
+        "desktop_position": "bottom_left",
+        "desktop_x_margin": 36,
+        "desktop_y_margin": 30,
+        "mobile_width": 100,
+        "mobile_height": 100,
+        "mobile_border_radius": 50,
+        "mobile_position": "bottom_left",
+        "mobile_x_margin": 36,
+        "mobile_y_margin": 30,
+        "desktop_close_button_position": "right",
+        "desktop_close_button_x_margin": -8,
+        "desktop_close_button_y_margin": 12,
+        "mobile_close_button_position": "right",
+        "mobile_close_button_x_margin": -8,
+        "mobile_close_button_y_margin": 12,
+        "desktop_font_size": 12,
+        "mobile_font_size": 12,
+        "text_color": "rgba(0,0,0,0)",
+        "border_width": 0,
+        "border_style": "solid",
+        "border_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1695605424879c77e4": {
+      "type": "apps",
+      "blocks": {
+        "ac40865a-674a-4580-920b-a6bbbeb33670": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "ac40865a-674a-4580-920b-a6bbbeb33670"
+      ],
+      "custom_css": [
+        "div#judgeme_product_reviews {margin: auto !important; max-width: 970px !important;}"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "products": [],
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "55f152c2-51eb-436b-b30e-6b77a4b47673": {
+      "type": "divider",
+      "settings": {
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "3abfbb83-3470-4617-b02d-693b452b8f99",
+    "c15b1c58-ab34-47a5-8139-d31b7848943a",
+    "1695605424879c77e4",
+    "product-recommendations",
+    "55f152c2-51eb-436b-b30e-6b77a4b47673"
+  ]
+}

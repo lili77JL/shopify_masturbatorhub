@@ -1,0 +1,49 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "contact-form": {
+      "type": "contact-form",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/customer_service.webp",
+        "title": "Contact Us",
+        "content": "<h3>We would love to hear from you.<\/h3><p>If you’ve got great products your making or looking to work with us then drop us a line.<\/p>",
+        "text_1_heading": "Address",
+        "text_1_text": "<p>114 Melrich Road, STE E, Cranbury, NJ 08512<\/p>",
+        "text_2_heading": "Contact: Crystal",
+        "text_2_text": "<ul><li>Tel：<a href=\"tel:+1 (205)2224668\" title=\"tel:+1 (203) 548-9557\">+1 (203) 548-9557<\/a><\/li><li>Email : <a href=\"mailto:service@masturbatorhub.com\" title=\"mailto:service@masturbatorhub.com\">service@masturbatorhub.com<\/a><\/li><\/ul>",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "d9501068-faf1-4b37-910e-f1d5d8c3d5c2": {
+      "type": "divider",
+      "settings": {
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact-form",
+    "d9501068-faf1-4b37-910e-f1d5d8c3d5c2"
+  ]
+}

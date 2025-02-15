@@ -1,0 +1,734 @@
+{
+  "sections": {
+    "1699677126347cdfc1": {
+      "type": "apps",
+      "blocks": {
+        "d42dcd01-24e5-4390-a472-75feb38a9e34": {
+          "type": "shopify:\/\/apps\/klarna-on-site-messaging\/blocks\/app-block\/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "top-strip-promotion-badge",
+            "locale_option": "geolocation",
+            "locale_fallback": "",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        }
+      },
+      "block_order": [
+        "d42dcd01-24e5-4390-a472-75feb38a9e34"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_horizontal_margins": false,
+        "include_vertical_margins": false
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "a50dbbf3-42a5-4d68-8809-4505b4b86dca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Masturbatorhub_ee5bfe78-1ded-4c08-9d53-85863dd8f539.webp",
+            "mobile_image": "shopify:\/\/shop_images\/Masturbatorhub_2_f3ef9b97-8cc0-4fcd-9a8f-d8e84dea7848.webp",
+            "text_position": "middle_left",
+            "mobile_text_position": "top_right",
+            "subheading": "SPECIAL PROMOTION",
+            "title": "70% OFF",
+            "content": "Exclusive Masturbation Cup Sale",
+            "button_1_text": "Show Now",
+            "button_1_link": "shopify:\/\/collections\/best-sex-toy-for-men",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffb700",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "a50dbbf3-42a5-4d68-8809-4505b4b86dca"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "background_type": "full_width",
+        "transition_type": "reveal",
+        "autoplay": true,
+        "cycle_speed": 20,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "collection_list_KhP7mr": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_KbhahK": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Automatic_3652a101-927b-4042-a8ab-8f3e7b985b69.webp",
+            "subheading": "",
+            "title": "Automatic",
+            "link_text": "Shop Now",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "collection_xrw4nm": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Blowjob_365fe6c9-ce2b-445a-bfdd-3570d48cf69f.webp",
+            "subheading": "",
+            "title": "Blowjob",
+            "link_text": "Shop Now",
+            "link_url": "shopify:\/\/collections\/blowjob-simulator",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "collection_WbUqNq": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Penis_Pump.webp",
+            "subheading": "",
+            "title": "Penis Pump",
+            "link_text": "Shop Now",
+            "link_url": "shopify:\/\/collections\/penis-pump",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "collection_i8L4jE": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Prostate_Massagers.webp",
+            "subheading": "",
+            "title": "Prostate Massagers",
+            "link_text": "Shop Now",
+            "link_url": "shopify:\/\/collections\/prostate-massagers",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "collection_HBPV9c": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Female_Torso_104d7a0b-bc4b-4140-9928-7489e747ac7a.webp",
+            "subheading": "",
+            "title": "Torso Masturbator",
+            "link_text": "Shop Now",
+            "link_url": "shopify:\/\/collections\/torso-sex-toy",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "collection_W4PAed": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Big_Ass_c031925c-0db0-4194-b508-204acac0f515.webp",
+            "subheading": "",
+            "title": "Big Booty",
+            "link_text": "Shop Now",
+            "link_url": "shopify:\/\/collections\/big-ass",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "collection_KbhahK",
+        "collection_xrw4nm",
+        "collection_WbUqNq",
+        "collection_i8L4jE",
+        "collection_HBPV9c",
+        "collection_W4PAed"
+      ],
+      "custom_css": [
+        "h3.heading.h2 {font-size: 30px;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "layout": "grid",
+        "subheading": "",
+        "title": "Hot Collections",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 28,
+        "desktop_bottom_padding": 28,
+        "mobile_top_padding": 32,
+        "mobile_bottom_padding": 32
+      }
+    },
+    "rich_text_Jp8wDN": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "\"NO NEED TO WAIT | IN STROCK USA\"",
+        "title": "Buy Top Male Masturbators",
+        "content": "<p>Explore new designing and developing the best male masturbator toys, enjoy a the ultimate sexual experience. <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffb700",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 56,
+        "desktop_bottom_padding": 56,
+        "mobile_top_padding": 52,
+        "mobile_bottom_padding": 52
+      }
+    },
+    "video_with_text_6mkkTx": {
+      "type": "video-with-text",
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "video_position": "left",
+        "desktop_text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "video_file": "shopify:\/\/files\/videos\/XS9-Video.mp4",
+        "video_url": "",
+        "autoplay": true,
+        "subheading": "",
+        "title": "XS9: Leten Bermuda",
+        "content": "<p>\"This is an awesome blowjob device to enrich your gameplay. gain unparalleled satisfaction also a remarkable addition to your intimate life.\"<\/p>",
+        "button_text": "Shop NoW",
+        "button_link": "shopify:\/\/products\/sucking-thrusting-heating-voice-handheld-masturbator",
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "#ffb700",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "video_with_text_pPiaVQ": {
+      "type": "video-with-text",
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "video_position": "right",
+        "desktop_text_alignment": "left",
+        "mobile_text_alignment": "center",
+        "video_file": "shopify:\/\/files\/videos\/XT5-video.mp4",
+        "video_url": "",
+        "autoplay": true,
+        "subheading": "",
+        "title": "XT5: Leten Cannon King",
+        "content": "<p>\"Watch me get MILKED by my new XT5 Auto Stroker by Cannon King. It has so many different modes and speeds, it's honestly so cool.\"<\/p>",
+        "button_text": "Shop Now",
+        "button_link": "shopify:\/\/products\/10-modes-10-speed-ultra-long-stroking-masturbator-700-strokes-per-min",
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "#ffb700",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "20786655-b07b-436d-b844-b1a25322dea9": {
+      "type": "video-carousel-v2",
+      "blocks": {
+        "04d220dd-8b1f-4be5-81a1-02909a5f9ae0": {
+          "type": "video",
+          "settings": {
+            "product": "full-body-waterproof-male-stroker-with-thrusting-vibrating-function",
+            "preview_video": "shopify:\/\/files\/videos\/XT12-VIDEO-2.mp4",
+            "preview_video_url": "",
+            "main_video": "shopify:\/\/files\/videos\/Masturbatorhub-XP14.mp4",
+            "main_video_url": ""
+          }
+        },
+        "b8d3f360-e00e-4ba6-8319-ca74e855fd27": {
+          "type": "video",
+          "settings": {
+            "product": "full-body-waterproof-tongue-licking-rotating-sucking-blowjob-machine",
+            "preview_video": "shopify:\/\/files\/videos\/XR2 Plus-Video2.mp4",
+            "preview_video_url": "",
+            "main_video_url": ""
+          }
+        },
+        "template--20823458971932__20786655-b07b-436d-b844-b1a25322dea9-video-1": {
+          "type": "video",
+          "settings": {
+            "product": "best-realistic-butt-toy-for-men",
+            "preview_video": "shopify:\/\/files\/videos\/SD16-2.mp4",
+            "preview_video_url": "",
+            "main_video_url": ""
+          }
+        },
+        "6b081a0e-a884-4a55-a597-e0c8984b2392": {
+          "type": "video",
+          "settings": {
+            "product": "daisy-lifelike-female-torso-sex-toy",
+            "preview_video": "shopify:\/\/files\/videos\/Daisy.mp4",
+            "preview_video_url": "",
+            "main_video": "shopify:\/\/files\/videos\/Masturbatorhub-XP14.mp4",
+            "main_video_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "04d220dd-8b1f-4be5-81a1-02909a5f9ae0",
+        "b8d3f360-e00e-4ba6-8319-ca74e855fd27",
+        "template--20823458971932__20786655-b07b-436d-b844-b1a25322dea9-video-1",
+        "6b081a0e-a884-4a55-a597-e0c8984b2392"
+      ],
+      "custom_css": [
+        "h3.heading.h2 {font-size: 30px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Most Recommend",
+        "products_count": 4,
+        "products_per_row": 4,
+        "type": "video_with_product",
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "1468f138-a1e8-4802-8f5f-a34577b3831c": {
+      "type": "featured-collections",
+      "blocks": {
+        "2a327378-01dd-4286-a53f-738fff886e3c": {
+          "type": "collection",
+          "settings": {
+            "collection": "best-sex-toy-for-men",
+            "label": "Masturbator",
+            "button_text": "view all",
+            "button_url": "shopify:\/\/collections\/best-sex-toy-for-men"
+          }
+        },
+        "collection_HTby7g": {
+          "type": "collection",
+          "settings": {
+            "collection": "torso-usa",
+            "label": "Torso Masturbator",
+            "button_text": "View All",
+            "button_url": "shopify:\/\/collections\/torso-sex-toy"
+          }
+        },
+        "collection_nFirfd": {
+          "type": "collection",
+          "settings": {
+            "collection": "big-ass",
+            "label": "Big Booty Masturbator",
+            "button_text": "View All",
+            "button_url": "shopify:\/\/collections\/big-ass"
+          }
+        }
+      },
+      "block_order": [
+        "2a327378-01dd-4286-a53f-738fff886e3c",
+        "collection_HTby7g",
+        "collection_nFirfd"
+      ],
+      "custom_css": [
+        "h3.heading.h2 {font-size: 30px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Best Selling",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "#f4f5f5",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 28,
+        "desktop_bottom_padding": 28,
+        "mobile_top_padding": 32,
+        "mobile_bottom_padding": 32
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "e5058398-d77a-4772-a831-c126f7071fb9": {
+          "type": "collection",
+          "settings": {
+            "collection": "on-sale",
+            "label": "",
+            "button_text": "view all",
+            "button_url": "shopify:\/\/collections\/on-sale"
+          }
+        }
+      },
+      "block_order": [
+        "e5058398-d77a-4772-a831-c126f7071fb9"
+      ],
+      "custom_css": [
+        "h3.heading.h2 {font-size: 30px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "On Sale",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "#f4f5f5",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 28,
+        "desktop_bottom_padding": 28,
+        "mobile_top_padding": 32,
+        "mobile_bottom_padding": 32
+      }
+    },
+    "f1ad1eb6-04cd-4f17-8f5f-74445cb58a29": {
+      "type": "divider",
+      "settings": {
+        "background_type": "boxed",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 20,
+        "desktop_bottom_padding": 24,
+        "mobile_top_padding": 16,
+        "mobile_bottom_padding": 16
+      }
+    },
+    "timeline": {
+      "type": "timeline",
+      "blocks": {
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reviews_3.webp",
+            "label": "",
+            "title": "Our Vision",
+            "content": "<p>\"This hands free masturbator is an incredible product. The thrusting and sucking key functions are incredibly powerful and provide a great experience. The heating base helps keep the machine warm and comfortable. I also like the voice orgasm key function which adds a great deal of pleasure.\"<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/XT1_28597e69-dfd4-47f4-b1ec-0656d4fd59b2.webp",
+            "label": "",
+            "title": "Experience the Pleasure of Auto Masturbation!",
+            "content": "<p>\"This Auto Masturbator is an amazing product. It features an impressive array of functions – thrusting, sucking, and vibrating – as well as optional heating and voice orgasm features. I highly recommend it as the best male masturbator I've ever used.”<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reviews_1.webp",
+            "label": "",
+            "title": "Absolute Best!",
+            "content": "<p>This 10 Thrusting Spinning Suction Technical Sense Male Masturbation Cup is incredible. “The thrusting and spinning action provide a real-life sensation that is out of this world. The suction cup base is strong and stays in place during play. The tightness is adjustable, so I can customize the intensity of the experience. Highly recommend this product - it's the best masturbation cup I've ever used!”<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "62c745f9-efb9-4b86-953a-caefcd1d1ac4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reviews_4.webp",
+            "label": "",
+            "title": "The Best Masturbator Around!",
+            "content": "<p>I recently purchased the Vibration Rotation Blowjob Masturbator and I have to say, it is the best masturbator I have ever used. The combination of vibration and rotation is incredible, and it's so easy to use. I love that it has multiple speeds and functions, allowing you to customize your experience. The size and texture of the toy is also great, making it very pleasurable. Highly recommended!\"<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item-3",
+        "item-1",
+        "item-2",
+        "62c745f9-efb9-4b86-953a-caefcd1d1ac4"
+      ],
+      "custom_css": [
+        "h3.heading.h2 {font-size: 25px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Real Customers, Real Reviews!",
+        "text_position": "middle",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 32,
+        "desktop_bottom_padding": 40,
+        "mobile_top_padding": 32,
+        "mobile_bottom_padding": 32
+      }
+    },
+    "7f9ce182-badb-4c00-bec3-0e39752b8c14": {
+      "type": "divider",
+      "settings": {
+        "background_type": "boxed",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 20,
+        "desktop_bottom_padding": 20,
+        "mobile_top_padding": 16,
+        "mobile_bottom_padding": 16
+      }
+    },
+    "d428391c-3543-4978-a331-c2e63ddc4fc8": {
+      "type": "custom-html",
+      "custom_css": [
+        "h1 {font-size: 26px; text-align: center;}",
+        "p {font-size: 18px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<h1>Male Masturbator | Best Male Strokers | Powerful &amp; Newest In 2024<\/h1>\n<p>Shop male masturbators online. Right here, Huge collections of male strokers for you to choose from. Find the best male masturbation toys for you at MasturbatorHub.Free shipping, Only $29+.<\/p>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "#ffb700",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 40,
+        "desktop_bottom_padding": 40,
+        "mobile_top_padding": 32,
+        "mobile_bottom_padding": 32
+      }
+    },
+    "34de2fed-1303-49d9-b1d2-616ab235fadc": {
+      "type": "custom-html",
+      "custom_css": [
+        "h2 {font-size: 28px;}",
+        "p {font-size: 18px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<h2 style=\"font-size:20px\">Customer Questions &amp; Answers <\/h2>\n<p>Male masturbator is the best male sex toy. It comes in handy when you want to release pent-up sexual tension. Mens masturbator not only allows you to enjoy the ultimate orgasm but also to improve your sexual health.<\/p>\n<p>If you're looking for the best male masturbator for your sexual needs, look no further than Masturbatorhub. Masturbatorhub is a professional male masturbator manufacturer. It has all types of masturbators, including automatic male masturbator\/big booty masturbator\/torso masturbator\/egg masturbator, and many more. Masturbatorhub is definitely the most complete masturbator online store available today.<\/p>\n<p>Whether you're looking to improve your sex life with a masturbator for yourself or your partner, our masturbation toys are available at a price you'll love. Browse our store now and buy the best sex toys for you!<\/p>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "#ffb700",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 32,
+        "desktop_bottom_padding": 32,
+        "mobile_top_padding": 32,
+        "mobile_bottom_padding": 32
+      }
+    },
+    "94072246-218b-471f-bb88-b9085d44ec97": {
+      "type": "faq",
+      "blocks": {
+        "template--20823458971932__94072246-218b-471f-bb88-b9085d44ec97-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "<h3>What is a male masturbator?<\/h3>",
+            "answer": "<p>Male masturbator is a device that allows you to simulate penetrative intercourse. Male stroker toys are designed to please men in the best possible way. It is very useful for men who like to be alone.<\/p><p>Masturbator toys can help men achieve orgasm faster and easier. It's actually a sleeve or channel that you slide over the penis and move up and down. Some masturbators have an open end for easy cleaning, while others have a closed end to simulate a real vagina or anus.<\/p><p>Man masturbators come in all shapes and sizes. From small egg masturbators to large <a href=\"\/collections\/torso-sex-toy\" title=\"Torso Sex Toy | Realistic Sex Torso For Men | Starting At $59+\">torso sex toys<\/a> that resemble sex dolls. Some are hands free masturbators designed for hands-free use. Whether it’s a basic sleeve or a fully <a href=\"\/collections\/automatic-stroker\" title=\"Automatic Stroker | Thrusting Male Stroker On Sale | Tax-Free\">automatic masturbator<\/a>, there are plenty of ways they can make you manly.<\/p>"
+          }
+        },
+        "template--20823458971932__94072246-218b-471f-bb88-b9085d44ec97-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "<h3>What are the benefits of mens masturbators?<\/h3>",
+            "answer": "<p>You might be wondering, why would anyone consider buying a male vibrator. You won't understand why until you try it yourself. It turns out that the vast majority of men who use a masturbator report a positive impact on their sex life. If you are unsure about buying a male masturbator toy but are interested, here are a few benefits of using a masturbator toy as listed by Masturbatorhub:<\/p><ul><li><strong>Increased frequency of orgasm: <\/strong>When you are in a long-distance relationship or a single man, male stroker toys can help you solve sexual problems very well.<\/li><li><strong>Improve the quality of orgasm: <\/strong>Orgasm is the most exciting. However, if you think you haven't experienced this in a long time, then a male masturbator should be your choice. It can definitely give you a feeling and fun you never had before.<\/li><li><strong>Know what you like to do: <\/strong>Sometimes you may not know what kind of sex your body is suitable for, so masturbation toys can enhance the experience and make you feel closer to the most realistic sex feeling.<\/li><li><strong>Controlled Pleasure: <\/strong>Identify your perfect experience and enjoy it whenever you feel alone.<\/li><li><strong>Best for Beginners or Professionals:<\/strong> Anyone can experience extreme sexual pleasure with a thrusting masturbator with multiple pleasures.<\/li><li><strong>Ease of use: <\/strong>The adult male masturbator is easy, comfortable, and generally unobtrusive to use. Some are even handy and waterproof, so you can take them anywhere to play alone or with a buddy.<\/li><li><strong>Safe Sex:<\/strong> There is no risk of STDs or pregnancy when using a male masturbator machine.<\/li><\/ul><p>Actually. There's nothing like a versatile male masturbator. They are an essential part of a man's sex life and are one of the most popular male sex toys of all time. Fortunately, using a male vibrator can help you achieve satisfying orgasms, even when you're alone.<\/p>"
+          }
+        },
+        "template--20823458971932__94072246-218b-471f-bb88-b9085d44ec97-question-3": {
+          "type": "question",
+          "settings": {
+            "title": "Who is the men masturbator good for?",
+            "answer": "<p>The Male stroker masturbator is perfect for men looking for new experiences or enhanced manual masturbation. These sex toys are the best choice for anyone who has a penis and wants to explore new sensations.<\/p><p>Different strokes may feel better on different bodies, since everyone's penises are different in size and shape and how they feel about them. Some masturbators are specially designed for trans men who want to experience transition. <\/p><p>In short, the best male masturbator is definitely suitable for single men, people who masturbate a lot, or couples looking for new and exciting experiences.<\/p>"
+          }
+        },
+        "27441b5e-d11a-49c0-b942-e9f7dd3b8476": {
+          "type": "question",
+          "settings": {
+            "title": "<h3>What is the best male masturbator？<\/h3>",
+            "answer": "<p>Whether you are looking for a way to relieve stress or want to exchange ideas with a couple, Masturbatorhub has listed for you the most popular different types of male masturbators that you can buy and enjoy at the lowest prices.<\/p><ul><li><a href=\"\/products\/3-in1-24-vibrations-vibrating-male-masturbator\" title=\"4 In1 Telescoping & Sucking & Vibrating Male Masturbator\"><strong>Automatic male masturbator<\/strong><\/a>: This automatic male masturbator is truly a wild machine, a powerful, fun-filled blowjob masturbator that you can customize from start to finish. It has 4 kinds of suction, 10 kinds of vibration, 40°C heating, and one-button orgasm mode. If you want to experience the full set of masturbation fun, this automatic stroker is definitely the best choice.<\/li><li><a href=\"\/products\/6-in-1huge-size-hands-free-thrusting-male-stroker-with-heating-base\" title=\"6-in-1Huge Size Hands Free Thrusting Male Stroker With Heating Base\"><strong>Hands free masturbator<\/strong><\/a>: Do you like to completely free your hands while masturbating? Try this jumbo sized hands-free masturbator. It has push, suction, voice, heating functions. One-click orgasm allows you to burst into top-level sexual pleasure instantly at any time. You can experience it in the bathroom, bedroom, or on the floor.<\/li><li><a href=\"\/products\/zenobia-ultra-sexy-female-half-torso-sex-toy\" title=\"Zenobia-29.76LB Ultra Sexy Female Half Torso Sex Toy\"><strong>Torso masturbtor<\/strong><\/a>: 1:1 reproduction of real women's body details. Having sex with this masturbator is like having sex with a real woman.<\/li><li><a href=\"\/products\/yasmin-28-66lb-big-fake-ass-sex-toy\" title=\"Yasmin-28.66LB Big Fake Ass Sex Toy\"><strong>Big booty masturbator<\/strong><\/a>: Doggy sex is the most popular sex position today. However, big ass dilators are perfect for doggy sex. Realistic internal channels will provide a firm suction pleasure.<\/li><\/ul><p>In Masturbatorhub's opinion, the penis masturbator is an excellent all-round penis stroking device, the automatic masturbator is a versatile male masturbation toy, and the egg masturbator is the best prostate toy for beginners. However, Masturbatorhub.com sells a huge selection of the best quality masturbators that are definitely a great choice to get your mind pumped.<\/p><p>So, no matter what kind of sex toy you prefer, the one that's right for you is the perfect, best one. No matter which male masturbator you choose, remember that staying safe and having fun is the most important thing.<\/p>"
+          }
+        },
+        "d13cdef9-99e6-4ebf-beaa-2ffa345b7924": {
+          "type": "question",
+          "settings": {
+            "title": "<h3>How do male masturbator toys work?<\/h3>",
+            "answer": "<p>Men masturbators stimulate the penis through suction or massage. Fun is provided by different textures, materials, and elasticities. Suctioning also helps increase blood flow to the penis, which can be helpful for men with erectile dysfunction (ED) or low libido.<\/p><p>There are two main types of masturbators:<\/p><ol><li>One is a manual masturbator, which requires you and the strength of your arm to dictate your experience.<\/li><li>The other is an automatic masturbator. It has a built-in motor that boosts the feel. The automatic male masturbator with different vibration patterns will give you new sensations that are hard to achieve with other sex toys.<\/li><\/ol><p>In conclusion, a male masturbator cup can increase pleasure and enhance your sexual experience. Who doesn't like the feeling of something sliding and sliding up and down their dick?<\/p>"
+          }
+        },
+        "931a1bab-0d10-43af-84ab-63d4d6613341": {
+          "type": "question",
+          "settings": {
+            "title": "What are the common types of male masturbator cup on the market?",
+            "answer": "<p>Currently, the main types of male masturbators available on the market are as follows:<\/p><ul><li><strong>Automatic male masturbator: <\/strong>Automatic male masturbator has multiple functions. Whether you are a beginner or an experienced user, you can debug the mode that best suits you according to your needs.<\/li><li><strong>Hands free masturbator: <\/strong>If you want to please yourself in the best possible way, then don't miss this one. It comes with a strong suction cup, which can completely free your hands and avoid wrist fatigue.<\/li><li><strong>Blowjob masturbator: <\/strong>This is a penis-sucking device shaped like an open mouth. If you want to enjoy oral sex anytime, anywhere, this is a good choice.<\/li><li><strong>Penis masturbator:<\/strong> Typically, this is a hands-free or small penis trainer. It supports remote control. In comparison, it is more convenient to carry and the price is cheaper.<\/li><li><strong>Egg masturbator:<\/strong> best egg toy for men could be the turning point in your sex life. It's a hands-free male masturbation toy that can come in a small, convenient case. Its ultra-strong elastomer expands significantly to ensure a snug fit that delivers a variety of great experiences.<\/li><li><strong>Torso masturbator: <\/strong>Mainly imitating the female bust. Usually, there are realistic breasts, vagina, and anus. This is one of the most popular male masturbation toys. Because this torso is very realistic, you can enjoy the most realistic sexual pleasure.<\/li><li><strong>Big booty masturbator:<\/strong> The main anal lover who provides realistic sexual pleasure. Realistic butts come in different shapes, sizes, and materials.<\/li><\/ul>"
+          }
+        },
+        "3dd8cdd9-f8b7-480f-812a-52853a6e7d72": {
+          "type": "question",
+          "settings": {
+            "title": "<h3>How to buy a male stroker toy that suits you best?<\/h3>",
+            "answer": "<p>If you decide to find a wonderful bedroom stimulation to change your sex life, don't miss the male masturbator. So how to buy the most suitable one?<\/p><p>You are in luck, because we have listed for you several factors to consider when shopping for the best male masturbator:<\/p><ul><li><strong>Size: <\/strong>Choosing the right size for your needs is important. If you have a medium-sized penis, you can be satisfied with almost any masturbator. If your penis is larger than average, try a larger size.<\/li><li><strong>Material:<\/strong> Most male masturbators are made of ABS+TPE or ABS+Silicone material. Of these, the silicone material is probably the most popular because it feels nice to the touch and is durable.<\/li><li><strong>Internal Texture:<\/strong> The interior of the Male Stroke must have a realistic textured structure. This is where you place your penis. You can choose a dilator that is straight and tight, more like an ass. Or have a realistic textured structure, more like a vagina.<\/li><li><strong>Price: <\/strong>There are male masturbators on the market at many price points. If the budget is not much, you can consider an egg masturbator. If you're on a budget, get one of those full-size torso masturbators. You can enjoy very real sensations of intercourse that will never be forgotten.<\/li><\/ul><p>Buy from professional male sex toy stores or websites, the quality is guaranteed and the price is cheaper. Such as: <strong>Masturbatorhub.<\/strong><\/p>"
+          }
+        },
+        "6de4fb87-6609-4a5c-87a1-6bb5fdbdcc8d": {
+          "type": "question",
+          "settings": {
+            "title": "<h3>Where to buy the best male stroker?<\/h3>",
+            "answer": "<p><strong>Sex Toy Store<\/strong><\/p><p>Sex toy stores will sell male masturbators. You can go to a brick-and-mortar store and choose your own device, which can be a particularly intimidating sight. And sex toy stores don't have all kinds of masturbators.<\/p><p><strong>Buy Online<\/strong><\/p><ul><li><a href=\"http:\/\/www.amazon.com\/\" target=\"_blank\" title=\"http:\/\/www.amazon.com\/\"><strong>Amazon<\/strong><\/a>: You can find many types of masturbators. But some are free sellers without professional after-sales service. Moreover, Amazon will charge sellers a 15% fee, which will be passed on to the selling price, which is not worthwhile.<\/li><li><a href=\"http:\/\/www.aliexpress.com\/\" target=\"_blank\" title=\"http:\/\/www.aliexpress.com\/\"><strong>AliExpress<\/strong><\/a>: The price is very cheap, but the quality is not good.<\/li><li><a href=\"http:\/\/www.ebay.com.sg\/\" title=\"http:\/\/www.ebay.com.sg\/\"><strong>Ebay<\/strong><\/a>: High quality and low price, but cannot 100% protect your privacy.<\/li><li><strong>Masturbatorhub:<\/strong> The male masturbator's specialty supply store. Lots of masturbators. Masturbatorhub makes browsing male sex toys as easy as browsing a boutique. Moreover, the price is low and there are no additional fees. 100% Privacy and Warranty.<br\/><\/li><\/ul><h5><\/h5>"
+          }
+        },
+        "4aaa3973-8512-4976-abb5-d5e0c7a9e8a4": {
+          "type": "question",
+          "settings": {
+            "title": "<h3>How to use a men masturbator?<\/h3>",
+            "answer": "<p>First: Lubricant check. Lube is a must for male dildo toys, and they only feel great when they're slick.<\/p><p>Where to start, use the vibrator in any way you like. And of course, the classic stroking action. You can also hold the masturbator cup in place and insert it, attaching it to the stand. Hands-free masturbators make for more fun ways to play in the shower and in the bedroom.<\/p><p>You can even play with the temperature a bit to make the male masturbator stroker feel more like the real thing. You can use a heated masturbation toy.<\/p><p>Maintenance is important with any sex toy. Most masturbators are easy to clean with soapy water. No matter which male masturbator you choose, clean it after each use and let it dry completely.<\/p>"
+          }
+        },
+        "da437b8f-fbd3-4969-adfd-74a3ba9e256c": {
+          "type": "question",
+          "settings": {
+            "title": "<h3>How to clean a squirt masturbator？<\/h3>",
+            "answer": "<p>It is very important to clean your penis after orgasm. Hygiene is essential to your own or your partner's health.<\/p><p>If you're buying a waterproof vibrator, you don't have to do much work. You can clean it directly with water or soapy water. Maybe you bought an electric masturbation device, which is not waterproof, so it takes time to clean it. Otherwise, it may quickly cause the automatic masturbation device to age or accumulate dirt, which will affect the next use.<\/p><p>No matter which cleaning method you choose, after washing, it must be dried. Then store in a cool dry place.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20823458971932__94072246-218b-471f-bb88-b9085d44ec97-question-1",
+        "template--20823458971932__94072246-218b-471f-bb88-b9085d44ec97-question-2",
+        "template--20823458971932__94072246-218b-471f-bb88-b9085d44ec97-question-3",
+        "27441b5e-d11a-49c0-b942-e9f7dd3b8476",
+        "d13cdef9-99e6-4ebf-beaa-2ffa345b7924",
+        "931a1bab-0d10-43af-84ab-63d4d6613341",
+        "3dd8cdd9-f8b7-480f-812a-52853a6e7d72",
+        "6de4fb87-6609-4a5c-87a1-6bb5fdbdcc8d",
+        "4aaa3973-8512-4976-abb5-d5e0c7a9e8a4",
+        "da437b8f-fbd3-4969-adfd-74a3ba9e256c"
+      ],
+      "custom_css": [
+        "h3 {font-size: 20px; text-align: center;}",
+        "p {font-size: 18px;}",
+        "ul {font-size: 18px;}"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 32,
+        "desktop_bottom_padding": 32,
+        "mobile_top_padding": 20,
+        "mobile_bottom_padding": 20
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "custom_icon_width": 50,
+            "title": "Free shipping",
+            "content": "<p>Free & discreet shipping on all USA orders,2-5 Days Fast delivery.<\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "TOP-NOTCH SUPPORT",
+            "content": "<p>Quick response to any questions. Always here and ready to help.<\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "SECURE PAYMENT",
+            "content": "<p>Pay by Paypal & Credit Card. We prioritise your privacy above all else.<\/p>"
+          }
+        },
+        "item-4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return-box",
+            "custom_icon_width": 50,
+            "title": "SATISFACTION GUARANTEED",
+            "content": "<p>60 Days easy return. Perfect after-sales service.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "item-4"
+      ],
+      "settings": {
+        "background": "#000000",
+        "text_color": "#ffffff",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 20,
+        "desktop_bottom_padding": 20,
+        "mobile_top_padding": 20,
+        "mobile_bottom_padding": 20
+      }
+    }
+  },
+  "order": [
+    "1699677126347cdfc1",
+    "slideshow",
+    "rich_text_Jp8wDN",
+    "collection_list_KhP7mr",
+    "video_with_text_6mkkTx",
+    "video_with_text_pPiaVQ",
+    "20786655-b07b-436d-b844-b1a25322dea9",
+    "1468f138-a1e8-4802-8f5f-a34577b3831c",
+    "featured-collections",
+    "f1ad1eb6-04cd-4f17-8f5f-74445cb58a29",
+    "timeline",
+    "7f9ce182-badb-4c00-bec3-0e39752b8c14",
+    "d428391c-3543-4978-a331-c2e63ddc4fc8",
+    "34de2fed-1303-49d9-b1d2-616ab235fadc",
+    "94072246-218b-471f-bb88-b9085d44ec97",
+    "text-with-icons"
+  ]
+}

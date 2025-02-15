@@ -1,0 +1,496 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "meta": {
+          "type": "meta",
+          "settings": {
+            "include_variant_name": false
+          }
+        },
+        "708e1dd3-fd3e-4dbd-84c8-c949cb2b3e31": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "568cbfa5-8dd5-4e9f-af44-31c42e7a3fcf": {
+          "type": "description",
+          "settings": {}
+        },
+        "9832b5bc-e357-4021-a8f8-20513c69201e": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Specification",
+            "icon": "",
+            "row_content": "<ul><li>Size: 10.23*3.54 inch<\/li><li>Insertable length: 5.5 inch<\/li><li>Weight: 1.77 lb<\/li><li>Material: ABS+TPE<\/li><li>Charging Method: USB rechargeable<\/li><li>Function: 10 Thrusting + 10 Vibration + 4 Sucking modes, 40℃ Heating & Voice function<\/li><li>Waterproof: IPX4 waterproof<\/li><\/ul>",
+            "show_product_description_first": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "variant_image",
+            "enable_dynamic_theme_color": false,
+            "dynamic_theme_color_with_announcement_bar": false,
+            "dynamic_theme_color_with_footer": false,
+            "size_chart_page": "",
+            "size_chart_icon": "ruler-3",
+            "size_chart_image": false
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_icon_preset": "quick-buy-shopping-bag",
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)",
+            "show_image_uploader": false,
+            "image_uploader_label": "<p>Drag & Drop your image or <span style=\"text-decoration:underline\">Browse<\/span> <\/p>"
+          }
+        },
+        "4b7d50d1-6161-46a6-ad1f-6f32ee3374c5": {
+          "type": "shopify:\/\/apps\/klarna-on-site-messaging\/blocks\/app-block\/b95936a9-74b6-4a95-8103-6a1b6459c25e",
+          "settings": {
+            "data_key": "credit-promotion-badge",
+            "locale_option": "geolocation",
+            "locale_fallback": "",
+            "theme": "light",
+            "topPadding": "0",
+            "bottomPadding": "0",
+            "messagePrefix": ""
+          }
+        },
+        "ffe415ba-913a-4f87-a199-5f1a0e3bcc2c": {
+          "type": "order_timing",
+          "settings": {
+            "text": "Order will be shipped within 6-12 hours.",
+            "cycle_speed": 3,
+            "prefix_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "list_delivery_free_return": {
+          "type": "list",
+          "settings": {
+            "item_1_heading": "",
+            "item_1_content": "<p>Ship From California & New Jersey<\/p>",
+            "item_1_icon_preset": "picto-address-pin",
+            "item_2_heading": "",
+            "item_2_content": "<p>Standard Shipping: (2-5 days)<\/p>",
+            "item_2_icon_preset": "picto-delivery-truck",
+            "item_3_heading": "",
+            "item_3_content": "<p>Expedited Shipping: (1-3 days)<\/p>",
+            "item_3_icon_preset": "picto-plane",
+            "remove_inner_padding": false,
+            "box_alignment": "row",
+            "icon_alignment": "top",
+            "background": "#fcebbd",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "list_1": {
+          "type": "list",
+          "settings": {
+            "item_1_heading": "",
+            "item_1_content": "<p>100% Discreet Package<\/p>",
+            "item_1_icon_preset": "picto-box",
+            "item_2_heading": "",
+            "item_2_content": "<p>100% Satisfaction Guarantee<\/p>",
+            "item_2_icon_preset": "picto-customer-support",
+            "item_3_heading": "",
+            "item_3_content": "",
+            "item_3_icon_preset": "",
+            "remove_inner_padding": false,
+            "box_alignment": "row",
+            "icon_alignment": "middle",
+            "background": "#f5f5f1",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "942a18a4-4e78-4a31-ab53-9708bc0d66d3": {
+          "type": "safe_tips",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "meta",
+        "708e1dd3-fd3e-4dbd-84c8-c949cb2b3e31",
+        "568cbfa5-8dd5-4e9f-af44-31c42e7a3fcf",
+        "9832b5bc-e357-4021-a8f8-20513c69201e",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "4b7d50d1-6161-46a6-ad1f-6f32ee3374c5",
+        "ffe415ba-913a-4f87-a199-5f1a0e3bcc2c",
+        "list_delivery_free_return",
+        "list_1",
+        "942a18a4-4e78-4a31-ab53-9708bc0d66d3"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": true,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_sticky_quick_buy": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "enable_peeking_carousel_on_mobile": false,
+        "adaptive_media_height": false,
+        "show_thumbnails_on_mobile": true,
+        "always_hide_mobile_pagination_dots": false,
+        "desktop_thumbnails_position": "bottom",
+        "shadow_effect": "large",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "disabled": true,
+      "settings": {
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "7e91754e-d83c-4dd9-99ab-5a7a703b26a0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21064523907356__7e91754e-d83c-4dd9-99ab-5a7a703b26a0-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/auto-suction-male-masturbator-9.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "5 In 1​​ Freely Adjustable Thrusting Function",
+            "content": "<p>As the ultimate masturbator, XT2 not only has 4 sucks and 10 vibrations but also 10 freely adjustable thrusts, 40°C heating, and one-touch orgasm. The powerful motor already has 10 high-speed powerful thrust functions. Even the hottest lover can be easily replaced.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21064523907356__7e91754e-d83c-4dd9-99ab-5a7a703b26a0-item-1"
+      ],
+      "custom_css": [
+        "h3 {font-size: 20px;}",
+        "p {font-size: 17px;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "desktop_text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 12,
+        "desktop_bottom_padding": 12,
+        "mobile_top_padding": 12,
+        "mobile_bottom_padding": 40
+      }
+    },
+    "bab30878-a217-4ca6-9f81-d291ca30204a": {
+      "type": "image-with-text",
+      "blocks": {
+        "58b4a93c-3460-40c4-a33b-783dcb8044c7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_in_1_Automatic_Male_Masturbators_Sex_Toy_For_Men_6.webp",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "10 Vibration Function & 40°C Heating",
+            "content": "<p>XT2 has 10 vibration modes. Different stimuli bring you the ultimate sex experience. In addition, the masturbator is also equipped with a heating function, which can be heated to 40 ° in 5 minutes. You can experience the most real vaginal temperature.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "58b4a93c-3460-40c4-a33b-783dcb8044c7"
+      ],
+      "custom_css": [
+        "h3 {font-size: 20px;}",
+        "p {font-size: 17px;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "desktop_text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 12,
+        "desktop_bottom_padding": 12,
+        "mobile_top_padding": 12,
+        "mobile_bottom_padding": 40
+      }
+    },
+    "2553f377-2e8d-4d39-9ac9-205f6d4d8022": {
+      "type": "image-with-text",
+      "blocks": {
+        "75d16d79-5f3a-4a67-8fcf-c5473e13e27d": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_in_1_Automatic_Male_Masturbators_Sex_Toy_For_Men.gif",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "4 Powerful Suction Mode,One-Click Orgasm",
+            "content": "<p>XT2 uses the latest vacuum pumping technology to more realistically simulate the process of swallowing and spitting during oral sex and intercourse. 4 suction modes work together for you stimulates every part of your penis. When you have finished preparing for ejaculation, try its orgasm function to make a nice ejaculation accompanied by your favorite way.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "75d16d79-5f3a-4a67-8fcf-c5473e13e27d"
+      ],
+      "custom_css": [
+        "h3 {font-size: 20px;}",
+        "p {font-size: 17px;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "desktop_text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 12,
+        "desktop_bottom_padding": 12,
+        "mobile_top_padding": 12,
+        "mobile_bottom_padding": 12
+      }
+    },
+    "3b0313fb-5749-402c-9d36-24831f4e4237": {
+      "type": "custom-html",
+      "custom_css": [
+        "h3 {font-size: 22px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "More Features",
+        "html": "",
+        "add_vertical_spacing": true,
+        "background_type": "boxed",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "307a5fe6-cbe9-4c8d-b31f-6f4783336b92": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21064523907356__307a5fe6-cbe9-4c8d-b31f-6f4783336b92-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_in_1_Automatic_Male_Masturbators_Sex_Toy_For_Men_2.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Convenient Button Distribution",
+            "content": "<p>The auto suction male masturbator is very convenient. Its keys are evenly distributed in the casing. You can easily adjust it to enjoy sexual pleasure in the mode you like.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21064523907356__307a5fe6-cbe9-4c8d-b31f-6f4783336b92-item-1"
+      ],
+      "custom_css": [
+        "h3 {font-size: 20px;}",
+        "p {font-size: 17px;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "image",
+        "image_position": "left",
+        "desktop_text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "9c331515-512a-4edf-a204-fa8b68c055e6": {
+      "type": "image-with-text",
+      "blocks": {
+        "3e833028-e776-4932-9714-5359416290c4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_in_1_Automatic_Male_Masturbators_Sex_Toy_For_Men_3.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Detachable & Easy to Clean",
+            "content": "<p>Masturbator has a detachable & IPX4 waterproof inner sleeve. After cleaning the inner sleeve and drying it, put it back into the cup.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "3e833028-e776-4932-9714-5359416290c4"
+      ],
+      "custom_css": [
+        "h3 {font-size: 20px;}",
+        "p {font-size: 17px;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "image",
+        "image_position": "right",
+        "desktop_text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 12,
+        "desktop_bottom_padding": 12,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "3abfbb83-3470-4617-b02d-693b452b8f99": {
+      "type": "image-with-text",
+      "blocks": {
+        "96eeb469-97fb-435d-9c8d-0aa03ab6e7b6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/XT2-male_masturbator_stroker_6.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Package List",
+            "content": "<ul><li>Masturbation cup<\/li><li>Charging cable<\/li><li>Cleaning cloth<\/li><li>Storage Bag<\/li><li>Heating rod<\/li><li>Headphone<\/li><li>Manual<\/li><\/ul>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "96eeb469-97fb-435d-9c8d-0aa03ab6e7b6"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "image",
+        "image_position": "left",
+        "desktop_text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": true,
+        "desktop_top_padding": 12,
+        "desktop_bottom_padding": 12,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "1695605424879c77e4": {
+      "type": "apps",
+      "blocks": {
+        "ac40865a-674a-4580-920b-a6bbbeb33670": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "ac40865a-674a-4580-920b-a6bbbeb33670"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "products": [],
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "eea65011-8522-4cf8-b50f-d3be17ae0e54": {
+      "type": "divider",
+      "settings": {
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "7e91754e-d83c-4dd9-99ab-5a7a703b26a0",
+    "bab30878-a217-4ca6-9f81-d291ca30204a",
+    "2553f377-2e8d-4d39-9ac9-205f6d4d8022",
+    "3b0313fb-5749-402c-9d36-24831f4e4237",
+    "307a5fe6-cbe9-4c8d-b31f-6f4783336b92",
+    "9c331515-512a-4edf-a204-fa8b68c055e6",
+    "3abfbb83-3470-4617-b02d-693b452b8f99",
+    "1695605424879c77e4",
+    "product-recommendations",
+    "eea65011-8522-4cf8-b50f-d3be17ae0e54"
+  ]
+}
